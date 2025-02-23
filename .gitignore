@@ -1,0 +1,22 @@
+# Ignore Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore database files
+*.db
+postgres_data/
+
+# Ignore Docker build files
+*.pid
+*.sock
+
+# Ignore IDE and system files
+.vscode/
+.DS_Store
