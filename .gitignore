@@ -20,3 +20,8 @@ postgres_data/
 # Ignore IDE and system files
 .vscode/
 .DS_Store
+
+# Ignore data files
+# Ignore all files in the data directory except the .gitkeep file
+etl_project/data/*  
+!etl_project/data/.gitkeep  # Keep the .gitkeep file
