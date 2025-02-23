@@ -37,7 +37,7 @@ etl_project/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/etl_project.git
+   git clone https://github.com/sairamtejasaladi/demo_etl_project_with_docker.git
    cd etl_project
    ```
 
