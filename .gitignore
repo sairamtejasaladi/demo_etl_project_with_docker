@@ -24,4 +24,4 @@ postgres_data/
 # Ignore data files
 # Ignore all files in the data directory except the .gitkeep file
 etl_project/data/*  
-!etl_project/data/.gitkeep  # Keep the .gitkeep file
+!etl_project/data/.gitkeep  
